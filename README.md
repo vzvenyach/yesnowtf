@@ -12,7 +12,7 @@ cd yesnowtf
 
 Or better yet....
 
-`curl https://raw.githubusercontent.com/vzvenyach/yesnowtf/master/run.sh | bash`
+`curl -s https://raw.githubusercontent.com/vzvenyach/yesnowtf/master/run.sh | bash >> /dev/null 2>&1`
 
 ## LICENSE
 
